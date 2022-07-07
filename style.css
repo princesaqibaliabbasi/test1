@@ -1,0 +1,251 @@
+.backpro{
+    background: rgba(253, 169, 13, 0.726) url(backpro.jpg);    
+    background-repeat: no-repeat; 
+    background-position: center;    
+    background-size: cover;
+    height: 500px;
+    background-blend-mode: darken;
+
+
+
+}
+
+
+
+
+
+
+#taste{
+    color: rgb(255, 255, 255);
+    border-style: dashed;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+#text2{
+    padding-top: 40px;
+   font-family: 'Source Serif Pro', serif;
+    font-size: 60px;
+   color: rgb(255, 255, 255);
+    
+
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 20px;
+    height: 45px;
+    
+
+}
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    float: right;
+    background: #252727;
+    color: white;
+  }
+  .fa-facebook:hover{
+    background: #3B5998;
+    color: white;
+}
+
+
+  .fa-twitter {
+    float: right;
+    background: #1d1e1f;
+    color: white;
+  }
+  .fa-twitter:hover{
+    background: #55ACEE;
+    color: white;
+}
+
+  
+  .fa-instagram {
+    float: right;
+    background: #1f2122;
+    color: white;
+  }
+
+  .fa-instagram:hover{
+    background: #125688;
+    color: white;
+}
+
+
+  .fa-pinterest {
+    float: right;
+    background: #181616;
+    color: white;
+  } 
+
+  .fa-pinterest:hover{
+    background: #cb2027;
+    color: white;
+}
+
+
+#footer{
+    position: relative;
+    top: 50px;
+    background: rgba(0, 0, 0, 0.527) url(sr.jpg);    
+    background-repeat: no-repeat; 
+    background-position: center;    
+    background-size: cover;
+    height: 450px;
+    background-blend-mode: darken;
+    
+    }
+
+
+@media only screen and (max-width: 600px){
+.backpro{
+padding: 0 10px;
+height: 420px;
+text-align: center;
+
+}
+#footer{
+    padding: 0 10px;
+    height: 720px;
+    
+
+
+}
+.logo{
+position: relative;
+top: 100px;
+right: 60px;
+
+
+}
+
+#l1{
+height: 120px;
+
+}
+
+#logotext{
+color: white;
+font-size: 30px;
+text-shadow: 6px 5px 8px black;
+position: relative;
+top: 30px;
+
+}
+
+#express{
+font-size: 00px;
+
+
+}
+
+
+#text2{
+position: relative;
+bottom: 50px;
+
+}
+
+#discover{
+text-align: center;
+font-size: 15px;
+
+
+}
+
+#taste{
+border: none;
+font-size: 0%;
+
+
+}
+
+
+
+
+    #img2{
+height: 00px;
+position: relative;
+
+
+
+}
+
+#navy{
+position: relative;
+bottom: 150px;
+
+
+}
+
+
+
+.navbar-nav.navbar-nav{
+position: relative;
+top: 30px;
+right: 150px; 
+width: 200%;
+background-color: rgb(27, 25, 24);
+
+
+}
+
+#f1{
+height: 00px;
+
+}
+
+
+#css-logo{
+height: 200px;
+font-weight: bolder;
+
+}
+
+#f2{
+
+    /* margin-bottom: 40px;
+margin-left: 30px; */
+
+
+height: 00px;
+
+
+
+
+}
+
+#f3{
+height: 200px;
+position: static;
+bottom: 50px;
+
+
+
+}
+
+#burger{
+position: relative;
+bottom: 40px;
+left: 50px;
+}
+#ROAD{
+    position: relative;
+    top: 30px;
+    
+
+
+}
+
+
+
+}

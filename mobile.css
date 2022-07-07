@@ -1,124 +1,235 @@
-@media only screen and (max-width: 600px){
-/* #a1{
-position: relative;
-right: 100px;
-
-
-} */
-#b2{
-margin-left: 30px;
 
 
 
-}
+  
+    @media only screen and (max-width: 600px){
+            
 
 
 
-#back{
-    height: 700px;
-
-}
-#b1{
-font-size: 45px;
-
-position: relative;
-bottom: 100px;
-
-}
-.btn{
-position: relative;
-bottom: 40px;
-font-size: 20px;
-
-}
-#s1{
-display: none;
 
 
-}
 
-
-#s2{
-position: relative;
-top: 80px;
-
-
-}
-
-#c1{
-font-size: 20px;
-
-}
-#d1{
-margin-top: 10px;
-position: relative;
-top: 70px;
-}
-#c2{
-font-size: 18px;
-position: relative;
-right: 05px;
-
-}
-#c3{
-margin-top: 40px;
-position: relative;
-right: 05px;
-
-}
-
-
-#e1{
-height: 200px;
-width: 400px;
-position: relative;
-right: 05px;
-
-}
-
-
-#e2{
-    height: 200px;
-    width: 400px;
-    padding-top: 50px; 
-    position: relative;
-    right: 05px;
-        
-    
-    }
-    
-    #e3{
-        height: 200px;
-        width: 400px;
-        padding-top: 0px; 
+        #f1-a{
         position: relative;
-        right: 05px;
+        right: 30px;
+        
+        
+        
+        } 
+        
+        #d3{
+        position: relative;
+        display: none;
+        
+        
+        
+        
+        
+        }
+        #d4{
+        font-size: 40px;
+        display: none;
+        
+        
+        }
+        
+        
+        #d2{
+        border: 2px solid black;
+        display: none;
+
+
+        }
        
 
 
-    }
-
-#click{
-position: relative;
-top: 10px;
-}
-#con-mob{
-position: relative;
-bottom: 45px;
-
-
-}
-
-#A1-A{
-padding-left: 30px;
-
-}
-
-
-
-
-
-
-
-    
-}
+        
+        
+        
+        #f1-b{
+            position: relative;
+            right: 30px;
+          top: 20px;  
+            
+            
+            } 
+        
+            
+            #f1-c{
+                position: relative;
+                right: 30px;
+                top: 40px;
+                
+                
+                } 
+                
+        
+        
+        
+        
+        #f1{
+        position: relative;
+        left: 0px;
+        }
+        
+        
+        
+                #img-1{
+                    height: 250px;
+                    position: relative;
+                    left: 20px;
+                    top: 80px;
+                }
+        .body-2{
+            
+        position: relative;
+        
+        
+        }
+        
+        
+        
+        
+        .body{
+        height: 700px;
+        
+        }
+        
+        #q2{
+        display: none;
+        
+        }
+        #q4{
+        display: block;
+        
+        
+        }
+        
+        #q3{
+        display: none;
+        
+        
+        }
+        #q1{
+        text-align: center;
+        margin-right: 20px;
+        font-weight: bolder;
+        
+        }
+        
+        #row-1{
+        height: 300px;
+        
+        
+        }
+        
+        #i-1{
+        height: 200px;
+        position: relative;
+        right: 200px;
+        width: 380px;
+        
+        }
+        
+        #l1{
+        height: 680px;
+        
+        
+        }
+        
+        
+        #i-2{
+        position: relative;
+        bottom: 100px;
+        font-size: 40px;
+        
+        
+        }
+        #i-4{
+        text-align: center;
+        text-align: justify;
+        
+        }
+        
+        
+        #i-3{
+            position: relative;
+            bottom: 100px;
+            font-size: 18px;
+            
+        
+        }
+        #r6{
+        position: relative;
+        left: 50px;
+        width: 300px;
+        }
+        #r6-a{
+        position: relative;
+        top: 120px;
+        right: 50px;
+        }
+        
+        #r5{
+            position: relative;
+        right: 40px;    
+            width: 300px;
+            }
+            
+        
+        #r5-a{
+        position: relative;
+        right: 80px;
+        top: 100px;
+        }
+        #r4-a{
+        position: relative;
+        right: 130px;
+        top: 70px;
+        }
+        
+        #r3{
+        position: relative;
+        left: 40px;
+        width: 300px;
+        }
+        
+        #r3-a{
+        position: relative;
+        top: 60px;
+        right: 40px;
+        
+        }
+        
+        
+        #r2-a{
+        position: relative;
+        right: 80px;
+        top: 30px;
+        
+        }
+        #r2{
+        width: 300px;
+        position: relative;
+        
+        
+        }
+        
+        #r1-a{
+        position: relative;
+        right: 130px;
+        
+        }
+        
+        #cont{
+        height: 2040px;
+        
+        
+        }
+        
+        
+        
+        
+        
+            }
